@@ -28,10 +28,6 @@ a {
 
 .footer {
   background-color: dimgray;
-  text-align: left;  
+  text-align: left;
   color: white;
   font-size: 11px;
-}
-li {
-  list-style-type: none;
-}
